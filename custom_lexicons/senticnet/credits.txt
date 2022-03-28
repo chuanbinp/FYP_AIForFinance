@@ -1,0 +1,9 @@
+Thank you for using SenticNet!
+
+Please acknowledge the authors by citing the following publications
+in any research work or presentation containing results obtained
+in whole or in part through the use of SenticNet:
+
+E Cambria, Y Li, FZ Xing, S Poria, K Kwok. SenticNet 6: Ensemble Application of Symbolic and Subsymbolic AI for Sentiment Analysis. In: Proceedings of CIKM, 105-114 (2020)
+
+Y Susanto, A Livingstone, BC Ng, E Cambria. The Hourglass Model Revisited. IEEE Intelligent Systems 35(5), 96-102 (2020)
