@@ -6,9 +6,12 @@ Poster under: Poster.pdf
 
 Code is in python and ipynb files, but _excluded data and BERT models due to size limitations_.
 
+## Poster
 ![image](https://user-images.githubusercontent.com/35805397/160373887-ed11936d-0ad2-4b5b-93c0-7db0bee7c92d.png)
 
-[![Video Summary](https://youtu.be/gz9scGnIg-g)
-(Click on image to Play Video Summary)
+## Video Summary  
+(Click on image below to Play Video)  
+[![Video Summary](https://img.youtube.com/vi/gz9scGnIg-g/0.jpg)](https://youtu.be/gz9scGnIg-g)
+
 
 
