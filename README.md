@@ -3,6 +3,7 @@
 
 Report under: FYPReport_PhoeChuanBin_U1821679J.pdf  
 Poster under: Poster.pdf  
+Presentation under: Presentation.pptx 
 
 Code is in python and ipynb files, but _excluded data and BERT models due to size limitations_.
 
