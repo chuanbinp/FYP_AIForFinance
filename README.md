@@ -1,5 +1,6 @@
 # FYP_AIForFinance
 ## Financial sentiment analysis of cryptocurrency microblog content
+Phoe, C. B. (2022). AI for Finance. Final Year Project (FYP), Nanyang Technological University, Singapore. https://hdl.handle.net/10356/158241
 
 Report under: FYPReport_PhoeChuanBin_U1821679J.pdf  
 Poster under: Poster.pdf  
