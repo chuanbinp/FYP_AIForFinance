@@ -4,7 +4,7 @@ Phoe, C. B. (2022). AI for Finance. Final Year Project (FYP), Nanyang Technologi
 
 ## About
 
-This project tackles the limitations of existing sentiment lexicons and models in the context of financial and cryptocurrency social media. A hybrid approach—combining custom-built, domain-specific lexicons with deep learning models delivers state-of-the-art prediction accuracy, achieving a **82.6% F1-score** for actionable sentiment extraction from crypto microblog data.
+This project tackles the limitations of existing sentiment lexicons and models in the context of financial and cryptocurrency social media. A hybrid approach: combining custom-built, domain-specific lexicons with deep learning models delivers state-of-the-art prediction accuracy, achieving a **82.6% F1-score** for actionable sentiment extraction from crypto microblog data.
   
 Report under: FYPReport_PhoeChuanBin_U1821679J.pdf  
 Poster under: Poster.pdf  
